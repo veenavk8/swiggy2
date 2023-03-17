@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+    display: flex;
+    
+}
+.main .left {
+    margin-top: 44px;
+}
+
+.logoimg {
+    width: 25%;
+  
+}
+.main .left nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.left nav .signup{
+    width: 110px;
+    height: 36px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    font-size: 17px;
+}
+.left nav button {
+color:black;
+background-color: transparent;
+border: none;
+margin-inline-start: 13px;
+margin-top: 6px;
+font-size: 17px;
+}
+.rightimg {
+    width: 530px; 
+}
+.txt {
+margin-left: 73px;
+margin-top: 77px;
+}
+.txt h1{
+    font-size: 43px;
+}
+.txt p {
+margin-top: 22px;
+font-size: 22px;
+}
+.inpt{
+display: flex;
+}
+.txt input{
+    padding: 8px;
+    width: 380px;
+    height: 30px;
+    border: 1px solid rgb(235, 69, 8);
+    border-right: none;
+    
+}
+
+.inpt button{
+width: 100px;
+height:48px ;
+color: #fff;
+background-color: rgb(228, 66, 7);
+border: none;
+font-size: 18px;
+color: #fff;
+
+}
+.card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color:rgb(48, 21, 2);
+    text-align: center;
+    color: #fff;
+    padding-bottom: 40px;
+    
+}
+.rest{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 20px;
+
+}
+.rest img{
+    width: 32%;
+    margin-top: 20px;
+}
+
+.text {
+    margin-top: 85px;
+}
+.text h1{
+    font-size: 45px;
+}
+.text p{
+    margin-top: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: #fff;
+    background-color:black;
+    padding: 44px;
+}
+.footimg{
+    width: 150px;
+    height: 50px;
+}
+.line{
+    text-decoration: none;
+    color: #fff;
+     
+}
+
+    
